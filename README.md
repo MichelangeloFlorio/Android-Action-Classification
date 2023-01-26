@@ -30,6 +30,8 @@ Download, unzip, e sistemazione del modello nel folder assets sono gestiti autom
 ####Demo
 L'applicazione è costituita da una view in cui nella parte superiore è mostrato lo stream video in ingresso, mentre nella parte inferiore sono presenti la label dell'attività, l'accuratezza, il modello MoviNet scelto e un bottone per effettuare il reset del modello.
 
-<img width="494" alt="esempi" src="https://user-images.githubusercontent.com/109990354/214840816-b8f01e37-b227-40b5-aaf5-a7d180a1c387.png">
+![esempio1](https://user-images.githubusercontent.com/109990354/214841110-19ad3a40-cc7c-4e92-b199-d391301b1cd1.jpeg)
+![esempio2](https://user-images.githubusercontent.com/109990354/214841137-7554d2b3-40ec-4c31-83af-c875b641279e.jpeg)
+
 
 
