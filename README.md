@@ -27,7 +27,7 @@ Download, unzip, e sistemazione del modello nel folder assets sono gestiti autom
 
 *   Cavo USB (per collegare il dispositivo Android al pc)
 
-### Demo
+## Demo
 L'applicazione è costituita da una view in cui nella parte superiore è mostrato lo stream video in ingresso, mentre nella parte inferiore sono presenti la label dell'attività, l'accuratezza, il modello MoviNet scelto e un bottone per effettuare il reset del modello.
 
 <img width="491" alt="Screenshot 2023-01-26 alle 14 01 39" src="https://user-images.githubusercontent.com/109990354/214842145-3b26e711-3bd9-40a0-bd9f-a6934d6b662d.png">
