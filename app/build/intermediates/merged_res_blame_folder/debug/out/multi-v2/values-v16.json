@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.lite.examples.videoclassification.app-mergeDebugResources-28:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/manu__greco/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/manu__greco/.gradle/caches/transforms-3/43cb90938ea7e5cf75b65835b03e16d3/transformed/appcompat-1.4.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

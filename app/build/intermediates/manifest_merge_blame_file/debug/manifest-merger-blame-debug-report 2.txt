@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.videoclassification"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.camera.any" />
+11-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:4:5-64
+11-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:4:19-61
+12
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:5:5-65
+13-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:5:22-62
+14
+15    <application
+15-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:7:5-23:19
+16        android:allowBackup="true"
+16-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:9:9-43
+20        android:label="@string/app_name"
+20-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:10:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:12:9-35
+23        android:theme="@style/Theme.VideoClassification" >
+23-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:13:9-57
+24        <activity
+24-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:14:9-22:20
+25            android:name="org.tensorflow.lite.examples.videoclassification.MainActivity"
+25-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:15:13-41
+26            android:exported="true" >
+26-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:16:13-36
+27            <intent-filter>
+27-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:17:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:18:17-69
+28-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:20:17-77
+30-->/Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <service
+34-->[androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:26:9-35:19
+35            android:name="androidx.camera.core.impl.MetadataHolderService"
+35-->[androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:27:13-75
+36            android:enabled="false"
+36-->[androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:28:13-36
+37            android:exported="false" >
+37-->[androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:29:13-37
+38            <meta-data
+38-->[androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:32:13-34:89
+39                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+39-->[androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:33:17-103
+40                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+40-->[androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:34:17-86
+41        </service>
+42
+43        <provider
+43-->[androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+45            android:authorities="org.tensorflow.lite.examples.videoclassification.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+50            <meta-data
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+52                android:value="androidx.startup" />
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+53        </provider>
+54    </application>
+55
+56</manifest>

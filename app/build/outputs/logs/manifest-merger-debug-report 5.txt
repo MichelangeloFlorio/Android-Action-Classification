@@ -1,0 +1,288 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/430d7278ba77b18e5718037116cc2481/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/3e97ceffc185ae23bee75546a12f23a0/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/5d54826a2cd33f2b7a849079401de69d/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/michelangeloflorio/.gradle/caches/transforms-3/f1b4ed02ef3db3cc45c48d42cf9a6de0/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/49a7481932c32b6ec3cdfe31985d4460/transformed/jetified-camera-view-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/43cb90938ea7e5cf75b65835b03e16d3/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/7e0f522005d31c15286957a8738774ed/transformed/jetified-camera-lifecycle-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/fab749ac01e9c3d8e88c92c6ea00d2fb/transformed/jetified-tensorflow-lite-support-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3ce849583e4e44a93f1552d100efdcd/transformed/jetified-tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/f79898ade391495403b118890fcd87a2/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/michelangeloflorio/.gradle/caches/transforms-3/1c5992ded506704698e5d14df1e2af60/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/michelangeloflorio/.gradle/caches/transforms-3/77e800bd66a6f097ca595a6de0a584a2/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/4f14d7d643022f37b656df2b85ba8672/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/affea700db0ff71263e46f6de027ae8f/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/c73e5d2be0dc7231db5368292f43f0f1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/45d4f831b8451ef488ee9a90bddb9fac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/708a0f9a272e5b6852197a360558c2b5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/4c47c062814a9354ae41483cc70bf3bc/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/4102c9f5a185d1d90dc3b3450a654e79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d23d32474ebd99bd37c4032fe28ab54d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/5e7e152ff37a8a5f28d64181a6676ed4/transformed/jetified-camera-core-1.1.0-beta01/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/6d95c71c7635f5bf767a52c9cc6bc6b1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0ce336339e0b0fdaee6a5f819170cf5b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/78d14d289ca85ae28c541638a70a8fb3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/311f5484ab2a2614c20a8ef239985544/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/8ca966d2823d31ea1ad51a0a5b101d87/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/6b09c10779be7f9a640b07ea322078c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/286822b62842b9d1943b0aa077f8e5e6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/3d12c273467f2b4cd6a657be1101c644/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3e2306979e217ddae444f816441a198/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/89a7af4bc43265b0b054eb6b867c7a12/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/f81fa6959297e08c38e5a793618c5bc9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/c419a29df28f633b9dbe1e823214bb5e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/72155a71761c71833bd32acb60d50c83/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/52e54993e5a80f5b9ccaf58991cc8bcb/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/d505e9196d10df92675950c540e74196/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7339b4cc2c8287f35a4c49ab634e44b0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/57ee1ddbfb1dfb876ec01ece614a7300/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/michelangeloflorio/.gradle/caches/transforms-3/fc89d699fefc42af757597a978813118/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d043423e87f1d429a055622ee13aa16b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/a8009b425fd0c6e671e0606a3666c814/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/f75468e016b4242f4014ce398b325097/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d20927895df8fc70e1c30a29413fc1d3/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/8681a61fe1215d0a939491ebc804c6b4/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.any
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:4:5-64
+	android:name
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:4:19-61
+uses-permission#android.permission.CAMERA
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:5:22-62
+application
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/5d54826a2cd33f2b7a849079401de69d/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/5d54826a2cd33f2b7a849079401de69d/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/michelangeloflorio/.gradle/caches/transforms-3/f1b4ed02ef3db3cc45c48d42cf9a6de0/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/michelangeloflorio/.gradle/caches/transforms-3/f1b4ed02ef3db3cc45c48d42cf9a6de0/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:25:5-36:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3ce849583e4e44a93f1552d100efdcd/transformed/jetified-tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3ce849583e4e44a93f1552d100efdcd/transformed/jetified-tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/5e7e152ff37a8a5f28d64181a6676ed4/transformed/jetified-camera-core-1.1.0-beta01/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/5e7e152ff37a8a5f28d64181a6676ed4/transformed/jetified-camera-core-1.1.0-beta01/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.core:core:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/f81fa6959297e08c38e5a793618c5bc9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/f81fa6959297e08c38e5a793618c5bc9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/c419a29df28f633b9dbe1e823214bb5e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/c419a29df28f633b9dbe1e823214bb5e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:13:9-57
+activity#org.tensorflow.lite.examples.videoclassification.MainActivity
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/430d7278ba77b18e5718037116cc2481/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/430d7278ba77b18e5718037116cc2481/transformed/jetified-viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/3e97ceffc185ae23bee75546a12f23a0/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/3e97ceffc185ae23bee75546a12f23a0/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/5d54826a2cd33f2b7a849079401de69d/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/5d54826a2cd33f2b7a849079401de69d/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/michelangeloflorio/.gradle/caches/transforms-3/f1b4ed02ef3db3cc45c48d42cf9a6de0/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/michelangeloflorio/.gradle/caches/transforms-3/f1b4ed02ef3db3cc45c48d42cf9a6de0/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/49a7481932c32b6ec3cdfe31985d4460/transformed/jetified-camera-view-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/49a7481932c32b6ec3cdfe31985d4460/transformed/jetified-camera-view-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/43cb90938ea7e5cf75b65835b03e16d3/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/43cb90938ea7e5cf75b65835b03e16d3/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/7e0f522005d31c15286957a8738774ed/transformed/jetified-camera-lifecycle-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/7e0f522005d31c15286957a8738774ed/transformed/jetified-camera-lifecycle-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/fab749ac01e9c3d8e88c92c6ea00d2fb/transformed/jetified-tensorflow-lite-support-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/fab749ac01e9c3d8e88c92c6ea00d2fb/transformed/jetified-tensorflow-lite-support-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3ce849583e4e44a93f1552d100efdcd/transformed/jetified-tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3ce849583e4e44a93f1552d100efdcd/transformed/jetified-tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/f79898ade391495403b118890fcd87a2/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/f79898ade391495403b118890fcd87a2/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/michelangeloflorio/.gradle/caches/transforms-3/1c5992ded506704698e5d14df1e2af60/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/michelangeloflorio/.gradle/caches/transforms-3/1c5992ded506704698e5d14df1e2af60/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/michelangeloflorio/.gradle/caches/transforms-3/77e800bd66a6f097ca595a6de0a584a2/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/michelangeloflorio/.gradle/caches/transforms-3/77e800bd66a6f097ca595a6de0a584a2/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/4f14d7d643022f37b656df2b85ba8672/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/4f14d7d643022f37b656df2b85ba8672/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/affea700db0ff71263e46f6de027ae8f/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/affea700db0ff71263e46f6de027ae8f/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/c73e5d2be0dc7231db5368292f43f0f1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/c73e5d2be0dc7231db5368292f43f0f1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/45d4f831b8451ef488ee9a90bddb9fac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/45d4f831b8451ef488ee9a90bddb9fac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/708a0f9a272e5b6852197a360558c2b5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/708a0f9a272e5b6852197a360558c2b5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/4c47c062814a9354ae41483cc70bf3bc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/4c47c062814a9354ae41483cc70bf3bc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/4102c9f5a185d1d90dc3b3450a654e79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/4102c9f5a185d1d90dc3b3450a654e79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d23d32474ebd99bd37c4032fe28ab54d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d23d32474ebd99bd37c4032fe28ab54d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/5e7e152ff37a8a5f28d64181a6676ed4/transformed/jetified-camera-core-1.1.0-beta01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/5e7e152ff37a8a5f28d64181a6676ed4/transformed/jetified-camera-core-1.1.0-beta01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/6d95c71c7635f5bf767a52c9cc6bc6b1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/6d95c71c7635f5bf767a52c9cc6bc6b1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0ce336339e0b0fdaee6a5f819170cf5b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0ce336339e0b0fdaee6a5f819170cf5b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/78d14d289ca85ae28c541638a70a8fb3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/78d14d289ca85ae28c541638a70a8fb3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/311f5484ab2a2614c20a8ef239985544/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/311f5484ab2a2614c20a8ef239985544/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/8ca966d2823d31ea1ad51a0a5b101d87/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/8ca966d2823d31ea1ad51a0a5b101d87/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/0d7d8f0d699300ca16d151c938ed0d01/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/6b09c10779be7f9a640b07ea322078c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/6b09c10779be7f9a640b07ea322078c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/286822b62842b9d1943b0aa077f8e5e6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/286822b62842b9d1943b0aa077f8e5e6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/3d12c273467f2b4cd6a657be1101c644/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/3d12c273467f2b4cd6a657be1101c644/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3e2306979e217ddae444f816441a198/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/b3e2306979e217ddae444f816441a198/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/89a7af4bc43265b0b054eb6b867c7a12/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/89a7af4bc43265b0b054eb6b867c7a12/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/f81fa6959297e08c38e5a793618c5bc9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/f81fa6959297e08c38e5a793618c5bc9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/c419a29df28f633b9dbe1e823214bb5e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/c419a29df28f633b9dbe1e823214bb5e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/72155a71761c71833bd32acb60d50c83/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/72155a71761c71833bd32acb60d50c83/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/52e54993e5a80f5b9ccaf58991cc8bcb/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/52e54993e5a80f5b9ccaf58991cc8bcb/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/d505e9196d10df92675950c540e74196/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/michelangeloflorio/.gradle/caches/transforms-3/d505e9196d10df92675950c540e74196/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7339b4cc2c8287f35a4c49ab634e44b0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7339b4cc2c8287f35a4c49ab634e44b0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/57ee1ddbfb1dfb876ec01ece614a7300/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/57ee1ddbfb1dfb876ec01ece614a7300/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/michelangeloflorio/.gradle/caches/transforms-3/fc89d699fefc42af757597a978813118/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/michelangeloflorio/.gradle/caches/transforms-3/fc89d699fefc42af757597a978813118/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d043423e87f1d429a055622ee13aa16b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d043423e87f1d429a055622ee13aa16b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/a8009b425fd0c6e671e0606a3666c814/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/a8009b425fd0c6e671e0606a3666c814/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/f75468e016b4242f4014ce398b325097/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/f75468e016b4242f4014ce398b325097/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d20927895df8fc70e1c30a29413fc1d3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/d20927895df8fc70e1c30a29413fc1d3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/8681a61fe1215d0a939491ebc804c6b4/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/8681a61fe1215d0a939491ebc804c6b4/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michelangeloflorio/Desktop/VIDEOCLASSIFICATION/video_classification/android/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/5e7e152ff37a8a5f28d64181a6676ed4/transformed/jetified-camera-core-1.1.0-beta01/AndroidManifest.xml:31:9-35:45
+MERGED from [androidx.camera:camera-core:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/5e7e152ff37a8a5f28d64181a6676ed4/transformed/jetified-camera-core-1.1.0-beta01/AndroidManifest.xml:31:9-35:45
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:30:13-42
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta01] /Users/michelangeloflorio/.gradle/caches/transforms-3/96441a91e2d53d9d1d4c8297985ae2fd/transformed/jetified-camera-camera2-1.1.0-beta01/AndroidManifest.xml:33:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/c419a29df28f633b9dbe1e823214bb5e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/c419a29df28f633b9dbe1e823214bb5e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/292b0506d2e5d6de056cd0d8a06b0b88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/michelangeloflorio/.gradle/caches/transforms-3/7f9d28065041ebc573d954fcc6a3aa51/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
