@@ -2,36 +2,34 @@
 
 ## Overview
 
-This is an example application for
-[TensorFlow Lite](https://tensorflow.org/lite) on Android. It uses
-video classification to continuously classify whatever it sees from the device's back camera.
-Inference is performed using the TensorFlow Lite Java API. The demo app
-classifies frames in real-time, displaying the top most probable
-classifications. It allows the user to choose between multiple variants of the [MoviNet](https://tfhub.dev/s?deployment-format=lite&q=movinet)
-video classification model.
+L'applicazione è stata sviluppata come progetto d'esame per il corso di Sistemi Digitali M. È un esempio di applicazione Android che classifica in modo continuo le azioni svolte in un frame video fornito in input mediante la fotocamera posteriore di uno smartphone e si basa su TensorFlow Lite. L'inferenza è realizzata mediante le API Java fornite da TensorFlow Lite. L'applicazione consente all'utente stesso di utilizzare le diverse varianti dei modelli [MoviNet](https://tfhub.dev/s?deployment-format=lite&q=movinet).
 
-These instructions walk you through building and running the demo on an Android device.
+### Modelli
 
-### Model
-
-We provide 3 integer-only quantized models bundled in this app:
+Nell'applicazione vengono forniti 3 modelli, quantizzati con int8:
 * MoviNet-A0
 * MoviNet-A1
 * MoviNet-A2
 
-MoviNet-A0 is the smallest and fastest model but less accurate than the A1 and A2. On the other 
-hand, MoviNet-A2 is the most accurate one but also larger and slower.
+MoviNet-A0 è il più piccolo, il più veloce, ma il meno accurato rispetto ad A1 e A2, mentre MoviNet-A2 è il più grande, il più lento, ma offre un'accuratezza maggiore.
 
 Downloading, extracting, and placing the model in the assets folder is managed
-automatically by download.gradle.
+automatically by 
+Download, unzip, e sistemazione del modello nel folder assets sono gestiti automaticamente dal file download.gradle.
 
-## Requirements
+## Requisiti
 
-*   Android Studio Bumblebee | 2021.1.1 or newer (installed on a Linux, Mac or Windows machine)
+*   Android Studio Bumblebee | 2021.1.1 o successive (installate su una macchina Linux, Mac o Windows)
 
-*   Android device in
+*   Dispositivo Android in modalità
     [developer mode](https://developer.android.com/studio/debug/dev-options)
-    with USB debugging enabled
+    con USB debugging abilitato
 
-*   USB cable (to connect Android device to your computer)
+*   Cavo USB (per collegare il dispositivo Android al pc)
+
+####Demo
+L'applicazione è costituita da una view in cui nella parte superiore è mostrato lo stream video in ingresso, mentre nella parte inferiore sono presenti la label dell'attività, l'accuratezza, il modello MoviNet scelto e un bottone per effettuare il reset del modello.
+
+<img width="494" alt="esempi" src="https://user-images.githubusercontent.com/109990354/214840816-b8f01e37-b227-40b5-aaf5-a7d180a1c387.png">
+
 
