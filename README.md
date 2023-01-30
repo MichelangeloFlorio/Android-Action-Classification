@@ -2,7 +2,7 @@
 
 ## Overview
 
-L'applicazione è stata sviluppata come progetto d'esame per il corso di Sistemi Digitali M. È un esempio di applicazione Android che classifica in modo continuo le azioni svolte in un frame video fornito in input mediante la fotocamera posteriore di uno smartphone e si basa su TensorFlow Lite. L'inferenza è realizzata mediante le API Java fornite da TensorFlow Lite. L'applicazione consente all'utente stesso di utilizzare le diverse varianti dei modelli [MoviNet](https://tfhub.dev/s?deployment-format=lite&q=movinet).
+L'applicazione è stata sviluppata come progetto d'esame per il corso di Sistemi Digitali M. È un esempio di applicazione Android, che classifica in modo continuo le azioni svolte in un frame video fornito in input mediante la fotocamera posteriore di uno smartphone e si basa su TensorFlow Lite. L'inferenza è realizzata mediante le API Java fornite da TensorFlow Lite. L'applicazione consente all'utente stesso di utilizzare le diverse varianti dei modelli [MoviNet](https://tfhub.dev/s?deployment-format=lite&q=movinet).
 
 ### Modelli
 
