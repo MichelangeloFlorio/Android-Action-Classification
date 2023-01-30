@@ -11,7 +11,7 @@ Nell'applicazione vengono forniti 3 modelli, quantizzati con int8:
 * MoviNet-A1
 * MoviNet-A2
 
-MoviNet-A0 è il più piccolo, il più veloce, ma il meno accurato rispetto ad A1 e A2, mentre MoviNet-A2 è il più grande, il più lento, ma offre un'accuratezza maggiore.
+MoviNet-A0 è il più piccolo, il più veloce, ma il meno accurato rispetto ad A1 e A2, mentre MoviNet-A2 è il più grande, il più lento, ma offre un'accuratezza maggiore. Il modello MoviNet-A1, invece, rappesenta un livello intermedio tra A0 e A2
 
 Download, unzip, e sistemazione del modello nel folder assets sono gestiti automaticamente dal file download.gradle.
 
